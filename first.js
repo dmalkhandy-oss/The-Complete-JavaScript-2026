@@ -1,1 +1,4 @@
-console.log('Hi Welcome To This Beast...')
+let a = 10;
+let b = 10;
+
+console.log(a+b);
